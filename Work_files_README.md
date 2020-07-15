@@ -14,3 +14,6 @@ https://colab.research.google.com/drive/1erIv5VVZoHn__7gRY52FRH5K-SJ06Qqc?usp=sh
 
 matrix
 https://colab.research.google.com/drive/1ELsG-oXzyASRsh0a6P4T5Ib3sPo3qd4S?usp=sharing
+
+บทความที่เราเคยเขียน
+https://www.facebook.com/thesalonedu/photos/a.127740992245478/153719259647651/
